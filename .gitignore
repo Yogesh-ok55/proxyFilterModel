@@ -27,3 +27,6 @@ moc_*.cpp
 ui_*.h
 qrc_*.cpp
 
+#.gitignore file
+.gitignore
+
