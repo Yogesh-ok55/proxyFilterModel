@@ -1,0 +1,29 @@
+# Qt Creator build directories
+build*/
+debug*/
+release*/
+
+# CMake build directories
+cmake-build-*/
+
+# Qt Creator user-specific files
+*.pro.user
+*.qbs.user
+*.qmlproject.user
+*.autosave
+
+# Object and generated files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.exe
+
+# Qt resource / moc / ui generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
